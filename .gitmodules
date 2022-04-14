@@ -1,0 +1,9 @@
+[submodule "liblinear"]
+	path = liblinear
+	url = https://github.com/cjlin1/liblinear.git
+[submodule "abc"]
+	path = abc
+	url = https://github.com/stefanSchinkel/bvaloader.git
+[submodule "bvaloader"]
+	path = bvaloader
+	url = https://github.com/stefanSchinkel/bvaloader.git
