@@ -6,17 +6,6 @@
 Welcome to homebrew-file's documentation!
 =========================================
 
-|BuildStatus|_ |CoverageStatus|_ |DocumentationStatus|_
-
-.. |BuildStatus| image:: https://travis-ci.org/rcmdnk/homebrew-file.svg?branch=master
-.. _BuildStatus: https://travis-ci.org/rcmdnk/homebrew-file
-
-.. |CoverageStatus| image:: https://coveralls.io/repos/rcmdnk/homebrew-file/badge.png?branch=master
-.. _CoverageStatus: https://coveralls.io/r/rcmdnk/homebrew-file?branch=master
-
-.. |DocumentationStatus| image:: https://readthedocs.org/projects/homebrew-file/badge/?version=latest
-.. _DocumentationStatus: http://homebrew-file.readthedocs.io/en/latest/?badge=latest
-
 Brewfile manager for `Homebrew <http://brew.sh/>`_ at OS X.
 
 It is similar to
